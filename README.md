@@ -6,17 +6,18 @@ The solution was developed as part of the **Machine Learning and Deep Learning (
 
 ---
 
-## 2. GitHub Repository Checklist (as per assignment)
+## 2. GitHub Repository Checklist 
 
 - ✅ **All project code/scripts included**:  
   - `app.py`, `train.py`, `bin_logic.py`, `model_utils.py`, `requirements.txt`
 - ✅ **Functional GitHub repository**:  
   - [https://github.com/iblamehemer/SA-for-Machine-learning-and-Deep-learning](https://github.com/iblamehemer/SA-for-Machine-learning-and-Deep-learning)
 - ✅ **Functional Streamlit link** (to be added after deployment):  
-  - `https://<your-app-name>.streamlit.app`
+  - https://go7qlivlhtwbeyfkdlffpx.streamlit.app
+)
 - ✅ **Dataset uploaded**  
   - Dataset folder: `data/`  
-  - Structure as required
+  
 - ✅ **Trained model included**  
   - `models/waste_classifier.h5`
 
@@ -28,7 +29,7 @@ This project is motivated by existing work in **computer vision for solid waste 
 - Use of transfer learning / MobileNetV2 – MobileNet variants are popular for low-compute devices and web apps because they are small, fast and accurate enough for image recognition tasks.  
 - Smart city pipeline – camera → classification model → recommendation → dashboard/app. Our Streamlit UI is the “dashboard/app” part.
 
-### References (example list)  
+### References   
 - Sandhu, et al. *“Deep Learning Based Smart Waste Classification.”*  
 - Howard, A. et al. **MobileNetV2: Inverted Residuals and Linear Bottlenecks**, Google.  
 - Chen, et al. *“Image-based Waste Sorting for IoT-enabled Smart Cities.”*
