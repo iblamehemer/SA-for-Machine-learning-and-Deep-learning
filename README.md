@@ -162,4 +162,4 @@ def map_class_to_bin(cls):
 	•	Course: Machine Learning & Deep Learning (Artificial Intelligence)
 	•	Assessment: Summative, 2025
 	•	GitHub Repo: https://github.com/iblamehemer/SA-for-Machine-learning-and-Deep-learning
-	•	Streamlit Link: [(to be added after deployment)](https://go7qlivlhtwbeyfkdlffpx.streamlit.app)
+	•	Streamlit Link: https://go7qlivlhtwbeyfkdlffpx.streamlit.app
